@@ -3,3 +3,4 @@
 import math
 
 print(math.pi)
+print("printed pi")
